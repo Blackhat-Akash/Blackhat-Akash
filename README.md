@@ -17,7 +17,7 @@
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Blackhat-Akash&layout=compact">
 
 ### 💻 Stack I Use:  
-[![My Skills](https://skillicons.dev/icons?i=c,java,html,css,spring,kotlin,compose,javascript,react,git,bootstrap,cpp,postman,figma,firebase,mysql)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=c,java,docker,html,css,spring,kotlin,compose,javascript,react,git,bootstrap,cpp,postman,figma,firebase,mysql)](https://skillicons.dev)  
 **Note:** Using Spring Boot as part of the Spring framework.
 
 
