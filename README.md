@@ -2,7 +2,7 @@
 
 <h1>Love To Code. Love To Chill. Love To Binge.</h1> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-vinayakrastogi3010-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akash-kumar30/)](https://www.linkedin.com/in/akash-kumar30/) [![Gmail Badge](https://img.shields.io/badge/-kumarakashjuly30@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kumarakashjuly30@gmail.com)](mailto:kumarakashjuly30@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-akashkumar3007-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/akash-kumar30/)](https://www.linkedin.com/in/akash-kumar30/) [![Gmail Badge](https://img.shields.io/badge/-kumarakashjuly30@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kumarakashjuly30@gmail.com)](mailto:kumarakashjuly30@gmail.com)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Blackhat-Akash" alt="Blackhat-Akash" /> </p>
 
 <div style="text-align: right">There are 10 kinds of people in the world—those who understand hexadecimal, and F the rest. </div>
